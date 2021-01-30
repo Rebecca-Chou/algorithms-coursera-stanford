@@ -1,5 +1,7 @@
-#algorithms-coursera-stanford
-#The exercises for different alforithms, which are included in algorithm courses on Coursera
+# algorithms-coursera-stanford
+# The exercises for different alforithms in courses on Coursera
+
+Course List:
 1. Divide and Conquer, Sorting and Searching, and Randomized Algorithms
 2. Graph Search, Shortest Paths, and Data Structures
 3. Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
